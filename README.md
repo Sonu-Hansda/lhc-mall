@@ -6,7 +6,7 @@ LHCMall is an ecommerce frontend site for the college hackathon. It allows users
 
 Here is a gif file that shows how the site works:
 
-![Gif Video](https://github.com/Sonu-Hansda/lhc-mall/vid.gif)
+![Gif Video](https://github.com/Sonu-Hansda/lhc-mall/blob/main/vid.gif)
 
 ## Screenshots
 
