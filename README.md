@@ -6,15 +6,15 @@ LHCMall is an ecommerce frontend site for the college hackathon. It allows users
 
 Here is a gif file that shows how the site works:
 
-!vid.gif
+![Gif Video](https://github.com/Sonu-Hansda/lhc-mall/vid.gif)
 
 ## Screenshots
 
 Here are some screenshots of the site:
 
-!image01
+![Screenshot 1](https://github.com/Sonu-Hansda/lhc-mall/image01.png)
 
-!image02
+![Screenshot 2](https://github.com/Sonu-Hansda/lhc-mall/image02.png)
 
 ## Technologies
 
@@ -38,4 +38,3 @@ This project was created by:
 
 - Sonu Kumar Hansda
 - 2023UGCM023
-
