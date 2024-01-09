@@ -12,7 +12,7 @@ function SubMenu() {
   return (
     <section className="bg-lime-300">
     <ul className="flex justify-center gap-x-8 border-b py-1 text-sm">
-      {categories.map((category,index) => {
+      {categories.map((category) => {
         return (
           <li className="cursor-pointer hover:underline">{category}</li>
         );
