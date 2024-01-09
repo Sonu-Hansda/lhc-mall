@@ -12,9 +12,9 @@ Here is a gif file that shows how the site works:
 
 Here are some screenshots of the site:
 
-![Screenshot 1](https://github.com/Sonu-Hansda/lhc-mall/image01.png)
+![Screenshot 1](https://github.com/Sonu-Hansda/lhc-mall/blob/main/image01.png)
 
-![Screenshot 2](https://github.com/Sonu-Hansda/lhc-mall/image02.png)
+![Screenshot 2](https://github.com/Sonu-Hansda/lhc-mall/blob/main/image02.png)
 
 ## Technologies
 
