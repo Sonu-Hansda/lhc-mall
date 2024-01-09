@@ -3,7 +3,7 @@
 LHCMall is an ecommerce frontend site for the college hackathon. It allows users to browse, search, and buy products from various categories and vendors.
 
 ## Demo
-Here is the vercel link : https://lhc-mall.vercel.app/
+Here is the vercel link : https://lhc-mall.vercel.app/ <br>
 Here is a gif file that shows how the site works:
 
 ![Gif Video](https://github.com/Sonu-Hansda/lhc-mall/blob/main/vid.gif)
